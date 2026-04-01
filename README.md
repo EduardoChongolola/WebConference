@@ -1,3 +1,3 @@
 # WebConference
 
-Eduardo Chongolola, Turma A2, 11ª Classe, Numero: 7.
+Eduardo Chongolola, Turma A2, 12ª Classe, Numero: 17.
